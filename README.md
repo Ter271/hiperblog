@@ -14,3 +14,4 @@ Un blog incrible para el [curso de git y Github de Platzi](https://platzi.com/cu
 * Disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.Disenado por el ejemplo. Si llegas aca NO TE LO TOMES ENSERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ " a ver el curso")
+# Configuracion_de-_desarrollo_windows
